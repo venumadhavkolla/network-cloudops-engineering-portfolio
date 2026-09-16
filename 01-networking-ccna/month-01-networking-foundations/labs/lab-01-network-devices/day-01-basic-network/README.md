@@ -43,7 +43,7 @@ Server ┤── Switch1 ── Router1
 - Fa0/4 → VLAN 1
 - Port status verified as On/connected
 
-## Commands Practiced
+### Commands Practiced
 
 ```text
 show interfaces status
@@ -53,3 +53,6 @@ show mac address-table dynamic
 show interfaces fa0/1
 show port-security interface fa0/1
 show running-config
+```
+## Evidence
+![Day 1 Basic Network Topology](../../../screenshots/day-01-basic-network.png.png)
