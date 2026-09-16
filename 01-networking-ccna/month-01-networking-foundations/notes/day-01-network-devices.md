@@ -83,3 +83,28 @@ Reconnected the cable and verified that the physical link was restored.
 - A router connects different networks.
 - Network devices use interfaces/ports for connections.
 - Physical connectivity should be checked when troubleshooting.
+
+- ## Active Recall
+
+### Network Path
+
+PC → Switch → Router → Internet
+
+- PC: End device that requests or uses network services.
+- Switch: Connects devices within the same LAN.
+- Router: Connects different networks and forwards traffic between them.
+- Internet: A global network of interconnected networks.
+
+### Day 1 Flashcards
+
+Reviewed Jeremy's Day 1 flashcards using active recall.
+
+### Self-Assessment
+
+I can explain the basic roles of:
+- Network
+- Client
+- Server
+- Switch
+- Router
+- Firewall
