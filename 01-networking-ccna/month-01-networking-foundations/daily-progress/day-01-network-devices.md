@@ -2,28 +2,60 @@
 
 ## Status
 
-In Progress
+✅ Completed
 
-## Date
+## Learning
 
-September 16, 2026
+Completed Jeremy's IT Lab Day 1 lesson.
 
-## Topics
+Covered:
 
-To be completed.
+- Computer networks
+- Client and server
+- Layer-2 switches
+- Routers
+- Firewalls
+- IP addresses
+- Network interfaces
 
-## Labs
+## Packet Tracer Lab
 
-To be completed.
+Built a basic network topology using:
 
-## Notes
+- PC1
+- PC2
+- Server1
+- Cisco 2960-24TT Switch1
+- Router1
 
-To be completed.
+### Connections
 
-## Evidence
+- PC1 → Switch1 Fa0/1
+- PC2 → Switch1 Fa0/2
+- Server1 → Switch1 Fa0/3
+- Router1 → Switch1 Fa0/4
 
-To be added.
+### IP Addressing
 
-## GitHub Documentation
+PC1:
 
-To be completed at the end of the study day.
+- IP: 192.168.1.10
+- Mask: 255.255.255.0
+- Gateway: 192.168.1.1
+
+PC2:
+
+- IP: 192.168.1.20
+- Mask: 255.255.255.0
+- Gateway: 192.168.1.1
+
+## Commands Practiced
+
+```text
+show interfaces status
+show vlan brief
+show mac address-table
+show mac address-table dynamic
+show interfaces fa0/1
+show port-security interface fa0/1
+show running-config
