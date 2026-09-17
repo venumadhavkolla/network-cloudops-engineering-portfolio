@@ -105,7 +105,7 @@ Understand how endpoints, switches and routers fit together in a basic network.
 
 ### Evidence
 
-![Day 1 Basic Network](day-01-basic-network.png)
+![Day 1 Basic Network](../../evidence/month-01/day-01-basic-network.png)
 
 ---
 
