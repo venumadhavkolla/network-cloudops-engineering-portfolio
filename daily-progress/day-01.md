@@ -106,3 +106,95 @@ Understand how endpoints, switches and routers fit together in a basic network.
 ### Evidence
 
 ![Day 1 Basic Network](day-01-basic-network.png)
+
+---
+
+## 5. Troubleshooting Exercise
+
+I intentionally disconnected the cable between PC1 and the switch.
+
+### Problem
+
+PC1 became disconnected from the network.
+
+### Symptom
+
+The physical link was unavailable.
+
+### Cause
+
+The cable between PC1 and the switch was removed.
+
+### Fix
+
+Reconnected the correct cable.
+
+### Validation
+
+The physical link was restored.
+
+### Lesson Learned
+
+A physical connection problem can cause loss of network connectivity. I practiced checking the physical connection and identifying the affected device before moving to more complex troubleshooting.
+
+---
+
+## 6. Active Recall
+
+After studying the lesson, I closed my notes and practiced explaining the main concepts from memory.
+
+### Basic Network Flow
+
+```text
+PC → Switch → Router → Internet
+```
+
+---
+
+## 8. What I Learned
+
+- Basic computer networking concepts
+- Difference between a client and a server
+- Purpose of a Layer-2 switch
+- Purpose of a router
+- Basic role of a firewall
+- How network devices fit together
+- Basic physical connectivity troubleshooting
+- Importance of observing symptoms before troubleshooting
+- How to validate that a problem has been resolved
+
+---
+
+## 9. Day 1 Completion
+
+### Completed
+
+- [x] Jeremy's IT Lab — Day 1: Network Devices
+- [x] Networking fundamentals
+- [x] Client and server concepts
+- [x] Switch, router and firewall concepts
+- [x] Packet Tracer practice
+- [x] Basic network topology
+- [x] Packet Tracer screenshot evidence
+- [x] Break/fix troubleshooting exercise
+- [x] Active recall
+- [x] Closed-book review
+
+### Status
+
+**Day 1 — Completed**
+
+---
+
+## 10. Key Takeaway
+
+The basic network model I learned today:
+
+```text
+PC / Client
+     |
+   Switch
+     |
+   Router
+     |
+  Internet
