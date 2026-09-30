@@ -164,6 +164,7 @@ PC → Switch → Router → Internet
 - How to validate that a problem has been resolved
 
 ---
+---
 
 ## 9. Day 1 Completion
 
