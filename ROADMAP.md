@@ -136,4 +136,4 @@ Every significant lab or project should document:
 - Evidence
 - Limitations
 
-All credentials, passwords, API keys and other secrets must remain outside the public repository.
+## All credentials, passwords, API keys and other secrets must remain outside the public repository.
