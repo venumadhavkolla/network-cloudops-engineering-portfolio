@@ -189,7 +189,7 @@ PC → Switch → Router → Internet
 
 ## 10. Key Takeaway
 
-The basic network model I learned today:
+The basic network model I learned today:-
 
 ```text
 PC / Client
